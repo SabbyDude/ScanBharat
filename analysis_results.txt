@@ -1,0 +1,107 @@
+--- BharatScan Analysis Results ---
+
+Original Message: Hey! It's me, your friend. I urgently need ₹5,000. My account is blocked. Can you send me? I'll return it tomorrow.
+Preprocessed: hey its me your friend i urgently need my account is blocked can you send me ill return it tomorrow
+Detected Keywords: can you send me
+Scam Type: WhatsApp Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Congratulations! You've won ₹1,00,000 in the WhatsApp Lottery. Click this link: http://fakewebsite.com/prize to claim. Share your bank details.
+Preprocessed: congratulations youve won in the whatsapp lottery click this link to claim share your bank details
+Detected Keywords: share your bank details, whatsapp lottery
+Scam Type: WhatsApp Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Your package couldn't be delivered today. Please click here to reschedule delivery and pay a small extra charge: www.deliveryupdates.co
+Preprocessed: your package couldnt be delivered today please click here to reschedule delivery and pay a small extra charge
+Detected Keywords: click here to reschedule
+Scam Type: Fake Delivery Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: We offer easy loans with minimal requirements and fast disbursements. No credit check! Apply now at loan-fast.in.
+Preprocessed: we offer easy loans with minimal requirements and fast disbursements no credit check apply now at loanfastin
+Detected Keywords: fast disbursements, easy loans with minimal requirements
+Scam Type: Instant Loan Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Beware! Your credit card is blocked due to an unauthorized transaction. Please verify your credit card details and OTP by calling 1800-XXX-XXXX.
+Preprocessed: beware your credit card is blocked due to an unauthorized transaction please verify your credit card details and otp by calling xxxxxxx
+Detected Keywords: unauthorized transaction, verify your credit card details, otp
+Scam Type: Credit Card Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: You have an urgent payment pending related to your digital arrest. Contact CBI officer Sharma immediately on this number.
+Preprocessed: you have an urgent payment pending related to your digital arrest contact cbi officer sharma immediately on this number
+Detected Keywords: urgent payment, cbi, digital arrest
+Scam Type: Digital Arrest Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Earn ₹10,000 daily from home! Message us on WhatsApp to start now! Limited slots available.
+Preprocessed: earn daily from home message us on whatsapp to start now limited slots available
+Detected Keywords: earn daily
+Scam Type: WhatsApp Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Important notification: Your bank account will be deactivated if you don't update your KYC via this link: https://update-bank.net/kyc.
+Preprocessed: important notification your bank account will be deactivated if you dont update your kyc via this link
+Detected Keywords: None
+Scam Type: Not a Scam
+Suspicious: No
+--------------------------------------------------
+
+Original Message: Your Amazon delivery requires an additional fee. Click this link for payment: delivery-confirm.com.
+Preprocessed: your amazon delivery requires an additional fee click this link for payment deliveryconfirmcom
+Detected Keywords: None
+Scam Type: Not a Scam
+Suspicious: No
+--------------------------------------------------
+
+Original Message: This is from RBI. You are involved in a money laundering case. Face legal action or pay a penalty of ₹50,000.
+Preprocessed: this is from rbi you are involved in a money laundering case face legal action or pay a penalty of
+Detected Keywords: legal action, rbi
+Scam Type: Digital Arrest Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Hi, I'm your delivery agent. Your parcel has issues. Please confirm your details via this link for redelivery.
+Preprocessed: hi im your delivery agent your parcel has issues please confirm your details via this link for redelivery
+Detected Keywords: delivery agent
+Scam Type: Fake Delivery Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Get instant loan approval with no hassle! Just download our app and pay a small advance fee.
+Preprocessed: get instant loan approval with no hassle just download our app and pay a small advance fee
+Detected Keywords: loan app, get instant loan
+Scam Type: Instant Loan Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: Your account has suspicious activity. Verify your PIN and credit card details to avoid blocking.
+Preprocessed: your account has suspicious activity verify your pin and credit card details to avoid blocking
+Detected Keywords: pin
+Scam Type: Credit Card Scam
+Suspicious: Yes
+--------------------------------------------------
+
+Original Message: You've won a new car! Just pay processing fees of ₹5,000 to claim your prize. Reply YES to this message.
+Preprocessed: youve won a new car just pay processing fees of to claim your prize reply yes to this message
+Detected Keywords: None
+Scam Type: Not a Scam
+Suspicious: No
+--------------------------------------------------
+
+Original Message: This is a final warning. Failure to comply with the digital arrest warrant will result in immediate legal action.
+Preprocessed: this is a final warning failure to comply with the digital arrest warrant will result in immediate legal action
+Detected Keywords: legal action, digital arrest, warrant
+Scam Type: Digital Arrest Scam
+Suspicious: Yes
+--------------------------------------------------
+
