@@ -1,9 +1,9 @@
-# **Project 'BharatScan': A Beginner's OSINT Tool for Indian Cyber Police**
+# **Project 'ScanBharat': A Beginner's OSINT Tool for Indian Cyber Police**
 
 ## **Overview**
 
-Project 'BharatScan' is a foundational Open-Source Intelligence (OSINT) tool designed to assist Indian Cyber Police in identifying and analyzing common cyber scam patterns predominantly observed within India's digital ecosystem. This Python script serves as a proof-of-concept for a localized approach to OSINT, providing more relevant and actionable intelligence for combating cybercrime in the Indian context.  
-Unlike generic global OSINT tools, 'BharatScan' is specifically tailored to recognize the nuances of India-specific scam patterns and aims to fill a critical gap where existing methods prove insufficient. It focuses on processing textual data, such as simulated scam messages, to identify characteristic keywords and phrases, categorize suspicious content, and flag it based on predefined patterns.
+Project 'ScanBharat' is a foundational Open-Source Intelligence (OSINT) tool designed to assist Indian Cyber Police in identifying and analyzing common cyber scam patterns predominantly observed within India's digital ecosystem. This Python script serves as a proof-of-concept for a localized approach to OSINT, providing more relevant and actionable intelligence for combating cybercrime in the Indian context.  
+Unlike generic global OSINT tools, 'ScanBharat' is specifically tailored to recognize the nuances of India-specific scam patterns and aims to fill a critical gap where existing methods prove insufficient. It focuses on processing textual data, such as simulated scam messages, to identify characteristic keywords and phrases, categorize suspicious content, and flag it based on predefined patterns.
 
 ## **Key Features**
 
@@ -16,7 +16,7 @@ Unlike generic global OSINT tools, 'BharatScan' is specifically tailored to reco
 
 ## **How to Set Up and Run**
 
-Follow these steps to get 'BharatScan' up and running on your local machine:
+Follow these steps to get 'ScanBharat' up and running on your local machine:
 
 ### **1\. Prerequisites**
 
@@ -27,14 +27,14 @@ Follow these steps to get 'BharatScan' up and running on your local machine:
 
 If you have Git installed, open your terminal or command prompt and run:  
 git clone \[repository-url\]  
-cd bharatscan-osint
+cd ScanBharat-osint
 
 (Replace \[repository-url\] with the actual URL of your GitHub repository once created).  
 Alternatively, you can manually download the zip file of the repository from GitHub and extract it.
 
 ### **3\. Install Dependencies**
 
-Navigate to the project directory (bharatscan-osint) in your terminal.  
+Navigate to the project directory (ScanBharat-osint) in your terminal.  
 This project uses built-in Python modules for basic text processing (re). If any external libraries were added in the future (e.g., nltk), they would be listed in requirements.txt. For this initial version, no pip install commands are strictly necessary.
 
 ### **4\. Run the Analysis**
